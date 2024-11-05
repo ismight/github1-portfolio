@@ -1,4 +1,4 @@
-# Hi, I'm [ISMAIL MUHAMMED OPEYEMI]  👋
+# Hi, I'm ISMAIL MUHAMMED OPEYEMI  👋
 I am a passionate Data analytics student at 3MTT Nigeria, driven by curiosityfor data analysis and a love for solving decision. My journeyinvolves delving into world of data analysis, exploring new ideas, and sharing my insights wih the community.
 ## 🔍 Key Skills 
 
