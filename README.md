@@ -198,4 +198,6 @@ This project analyzes finacial data to identify the profit made, the best month 
 
   
 
-  ![Financial Trends] (https://drive.google.com/file/d/1eKi7x1eA4sta8WQHhZgaIuYEL_2J5_Us/view?usp=sharing) 
+![financial report](https://github.com/user-attachments/assets/10ee8360-25ff-41a0-9fe5-faaf6932642c)
+(https://drive.google.com/file/d/1eKi7x1eA4sta8WQHhZgaIuYEL_2J5_Us/view?usp=sharing)
+  
