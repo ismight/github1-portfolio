@@ -17,5 +17,5 @@ I am a passionate Data analytics student at 3MTT Nigeria, driven by curiosityfor
 
 ## 📫 Connect with Me:
 
-- [LinkedIn](www.linkedin.com/in/muhammed-ismail36)
+-[Linkedin](www.linkedin.com/in/muhammed-ismail36)
 - [`Email`](ismailopeyemi36@gmail.com) 
